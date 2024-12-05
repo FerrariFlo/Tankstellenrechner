@@ -1,0 +1,16 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_Tankstellenrechner.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Tankstellenrechner.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Tankstellenrechner\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_Tankstellenrechner.dll
